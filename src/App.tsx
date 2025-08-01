@@ -49,7 +49,7 @@ function App() {
         </div>
       </div>
 
-      <Footer year="2025" fullName="Lawit Pinkaew" studentId="670610727"/>
+      <Footer year="2026" fullName="Lawit Pinkaew" studentId="670610727"/>
     </div>
   );
 }
